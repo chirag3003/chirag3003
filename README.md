@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Backend**
+- 🤝 I’m looking for help with **Golang**
 
 - 👨‍💻 All of my projects are available at [https://apexweb.me](https://apexweb.me)
 
