@@ -2,8 +2,10 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirag3003" alt="chirag3003" /></a> </p>
+<!-- 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet) -->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=chirag3003&color=blueviolet)
 
 
 - 🔭 I’m currently working with [Affilboost](https://affilboost.com)
