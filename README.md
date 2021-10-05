@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working with [Affilboost](https://affilboost.com)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GoLang**
 
 - 🤝 I’m looking for help with **Golang**
 
