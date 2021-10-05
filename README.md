@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **Golang**
 
-- 👨‍💻 All of my projects are available at [https://apexweb.me](https://apexweb.me)
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **me@apexweb.me**
