@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            512 Commits
+                            513 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -244,14 +244,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.21978340588012" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="250.21978340588012" y="0" width="141.50746078627876" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="391.72724419215893" y="0" width="40.245310299881126" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="431.97255449204005" y="0" width="13.15435514023404" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="445.1269096322741" y="0" width="6.872621429228735" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="451.9995310615028" y="0" width="3.0617145752892103" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="455.061245636792" y="0" width="2.9561782016712868" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.0174238384633" y="0" width="1.9825761615367061" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.222622253149" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="250.222622253149" y="0" width="141.50906624713843" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="391.7316885002874" y="0" width="40.245766899625856" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="431.9774553999133" y="0" width="13.154504381851371" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="445.1319597817647" y="0" width="6.867480511098337" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="451.999440292863" y="0" width="3.061749311711494" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="455.0611896045745" y="0" width="2.95621174073962" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.01740134531417" y="0" width="1.9825986546859082" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1473,10 +1473,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
-                            <g transform="translate(-5.1, 7.5)">
+                            <g transform="translate(-5.1, 7.285714285714286)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                             </g>
                         </g>
                     </g>
@@ -1491,6 +1491,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">chirag3003/java-project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a77ce45</span>
+                                        <span class="message">reaarange</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1567,26 +1587,6 @@
                                     <div class="commit">
                                         <span class="sha">#772435f</span>
                                         <span class="message">.</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chirag3003/java-project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#482f1d1</span>
-                                        <span class="message">Bouncy Number</span>
                                     </div>
                                 </div>
                             </section>
@@ -2252,7 +2252,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2022, 20:48:05 (timezone Asia/Calcutta) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 12 Jan 2022, 21:56:49 (timezone Asia/Calcutta) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
