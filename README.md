@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am 18 year old developer experienced in Web Development and Android Development. I am experienced in js, nodejs, Nextjs , expressjs ,typescript , golang ,kotlin , etc.<br>I am an enthusiastic developer and I am always interested in trying out and learning new things
+I am 18 year old developer experienced in Web Development and Android Development. I am experienced in js, nodejs, Nextjs, expressjs, typescript , golang, kotlin, etc.<br>I am an enthusiastic developer and I am always interested in trying out and learning new things
 
 ## 🌐 Socials:
 
