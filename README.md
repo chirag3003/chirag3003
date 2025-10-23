@@ -1,30 +1,68 @@
-# 💫 About Me:
+<div align="center">
 
-I am 18 year old developer experienced in Web Development and Android Development. I am experienced in js, nodejs, Nextjs, expressjs, typescript , golang, kotlin, etc.<br>I am an enthusiastic developer and I am always interested in trying out and learning new things
+# Hi, I'm Chirag Bhalotia 👋
 
-## 🌐 Socials:
+**Full-Stack Developer** • Kolkata, India 🇮🇳
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code.chirag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-bhalotia-7303461b4)
+[![Portfolio](https://img.shields.io/badge/chirag.codes-5865F2?style=flat-square&logo=google-chrome&logoColor=white)](https://chirag.codes)
+[![Instagram](https://img.shields.io/badge/@code.chirag-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/code.chirag)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chiragbhalotia0412@gmail.com)
 
-# 💻 Tech Stack:
+![Profile Views](https://komarev.com/ghpvc/?username=chirag3003&color=blueviolet&style=flat-square)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+</div>
 
-# 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag3003&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chirag3003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag3003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 👨‍💻 About
 
-## 🏆 GitHub Trophies
+I'm Chirag Bhalotia — a Full-Stack Developer based in Kolkata, India. I design and build production-ready web applications and backends with an emphasis on performance, developer experience, and maintainability. Over the past 3+ years I've shipped features and systems for web apps and APIs using modern stacks and cloud services.
 
-![](https://github-profile-trophy.vercel.app/?username=chirag3003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- Education: Computer Science, MIT-WPU
+- Experience: 3+ years building scalable web apps and backends
+- Focus: Next.js, Golang, TypeScript, and modern databases
+- Availability: Open for freelance projects — reach me at me@chirag.codes
 
-### ✍️ Random Dev Quote
+```js
+const chirag = {
+	title: "Full-Stack Developer",
+	location: "Kolkata, India",
+	education: "CS @ MIT-WPU",
+	experience: "3+ years",
+	focus: ["Next.js", "Golang", "TypeScript", "MongoDB"],
+	openFor: "freelance"
+}
+```
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tech Stack
 
-## 💰 You can help me by Donating
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chirag3003)
+## 📊 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chirag3003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=chirag3003&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag3003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chirag3003&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+<div align="center">
+
+**Open for freelance work** • [Let's connect!](mailto:chiragbhalotia0412@gmail.com)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chirag3003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4)
+
+</div>
