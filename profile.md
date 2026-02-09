@@ -29,6 +29,7 @@
 **Mobile:**
 - iOS: Swift (UIKit, SwiftUI)
 - Android: Kotlin (Jetpack Compose)
+- Cross-Platform: React Native (Expo)
 
 **ML/AI:**
 - Image classification & object detection
@@ -63,15 +64,12 @@
 ### Web Applications
 | Project | Tech | Description |
 |---------|------|-------------|
-| **Rowing-Project** | TypeScript, Rust | Sports analytics platform for rowing performance tracking |
+| **progression-dashboard** | TypeScript | Sports tournament progression tracking system |
 | **mapa ecosystem** | TypeScript, Go | Multi-app platform (mapafood, mapamed, mapa-front, mapa-back) |
 | **collab-draw** | TypeScript + Go | Real-time collaborative whiteboard with WebSocket |
-| **envsync-web** | TypeScript | Environment variable sync tool for teams |
 | **sanskritii-dashboard** | TypeScript | Admin dashboard with Docker deployment |
 | **student-portal** | TypeScript | Educational portal system |
 | **GDG-recruitment** | TypeScript | Recruitment platform for GDG community |
-| **bhoomi-web** | TypeScript | Full-stack web application with Docker |
-| **she-cyber-landing/admin** | TypeScript | Cybersecurity event platform with admin panel |
 | **projects.chirag** | TypeScript, Go | Personal project showcase with API backend |
 
 ### Mobile Applications
@@ -79,9 +77,7 @@
 |---------|------|-------------|
 | **mitwpu_group3** | Swift | iOS application (4⭐) |
 | **accio-ios** | Swift | iOS app with native features |
-| **ios-course** | Swift, C | Comprehensive iOS learning projects |
 | **PaymentTrackerApp** | Kotlin | Android expense tracking app |
-| **ViMusic** | Kotlin | YouTube Music streaming Android app |
 | **image-classification-uikit** | Swift | ML-powered image classifier for iOS |
 
 ### Backend Services
