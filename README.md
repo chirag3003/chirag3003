@@ -57,8 +57,8 @@ My work spans gRPC microservices, distributed ID generation, offline-first archi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chirag3003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chirag3003&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag3003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag3003&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 </div>
